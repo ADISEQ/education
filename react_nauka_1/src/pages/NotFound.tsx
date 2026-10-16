@@ -1,8 +1,6 @@
-import React from 'react'
-
 function NotFound() {
   return (
-    <div className='flex items-center flex-col h-[100%] pt-10'>
+    <div className='flex items-center flex-col h-full pt-10'>
         <p className='text-[28px] font-bold'>
             Taka strona nie istnieje
         </p>
