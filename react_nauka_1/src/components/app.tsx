@@ -1,10 +1,9 @@
-import TransactionList from "./transactionList";
+import TransactionList from "../pages/TransactionList";
 
 export default function App() {
   return (
-    <>
-      <h2>Moja pierwsza aplikacja React</h2>
-      <TransactionList/>
-    </>
+    <div className="wrapper">
+
+    </div>
   )
 }
